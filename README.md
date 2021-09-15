@@ -6,7 +6,7 @@ keV sterile neutrino production with non standard interactions.
 ### Authors 
 - [Aaroodd Ujjayini Ramachandran](https://github.com/aaroodd) (University of Aachen)
 - [Cristina Benso](https://github.com/cristinabenso92) (Max-Planck-Institut für Kernphysik, Heidelberg)
-- [Manibrata Sen] ()(Max-Planck-Institut für Kernphysik, Heidelberg)
+- [Manibrata Sen]()(Max-Planck-Institut für Kernphysik, Heidelberg)
 - [Werner Rodejohann]()(Max-Planck-Institut für Kernphysik, Heidelberg)
 
 ### Goal
