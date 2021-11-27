@@ -21,4 +21,4 @@ We provide the code to solve the Boltzmann equation including the non standard c
 We investigate the impact of NSSI on the free streaming length of sterile neutrinos (impact on structures formation) using the obtained modified distribution functions.
 
 ### Useful external links
-This code was wrotten to carry out the work published in https://arxiv.org/abs/2111.XXXXX, _please cite the paper if you use the code_.
+This code was written to carry out the work published in https://arxiv.org/abs/2111.XXXXX, _please cite the paper if you use the code_.
