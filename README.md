@@ -1,4 +1,4 @@
-# NSSI-sterile-neutrino
+# Sterile neutrinos via Dodelson-Widrow with NSSI
 keV sterile neutrino production in presence of neutrino non-standard self-interactions.
 
 ## Project
