@@ -1,5 +1,5 @@
 # Sterile neutrino production via Dodelson-Widrow with NSSI
-keV sterile neutrino production in presence of neutrino non-standard self-interactions.
+keV sterile neutrino dark matter production in presence of non-standard neutrino self-interactions.
 
 ## Project
 
@@ -10,7 +10,7 @@ keV sterile neutrino production in presence of neutrino non-standard self-intera
 - [Werner Rodejohann]()(Max-Planck-Institut für Kernphysik, Heidelberg)
 
 ### Goal
-We want to explore what is the effect of neutrino non-standard self-interactions (NSSI) on the production of sterile neutrino dark matter through oscillation and collisions in the early universe. Non-standard interactions involving also sterile neutrinos and charged leptons are left to future work.
+We want to explore what is the effect of active neutrino non-standard self-interactions (NSSI) on the production of sterile neutrino dark matter through oscillation and collisions in the early universe. Non-standard interactions involving sterile neutrinos and charged leptons are left to future work.
 
 ### Description
 We provide a Mathematica implementation of the Boltzmann equation for the standard Dodelson-Widrow production mechanism. 
