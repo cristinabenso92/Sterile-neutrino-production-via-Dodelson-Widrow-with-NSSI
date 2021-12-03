@@ -6,8 +6,8 @@ keV sterile neutrino dark matter production in presence of non-standard neutrino
 ### Authors 
 - [Aaroodd Ujjayini Ramachandran](https://github.com/aaroodd) (RWTH Aachen)
 - [Cristina Benso](https://github.com/cristinabenso92) (Max-Planck-Institut für Kernphysik, Heidelberg)
-- [Manibrata Sen]()(Max-Planck-Institut für Kernphysik, Heidelberg)
-- [Werner Rodejohann]()(Max-Planck-Institut für Kernphysik, Heidelberg)
+- [Manibrata Sen]() (Max-Planck-Institut für Kernphysik, Heidelberg)
+- [Werner Rodejohann]() (Max-Planck-Institut für Kernphysik, Heidelberg)
 
 ### Goal
 We want to explore what is the effect of active neutrino non-standard self-interactions (NSSI) on the production of sterile neutrino dark matter through oscillation and collisions in the early universe. Non-standard interactions involving sterile neutrinos and charged leptons are left to future work.
@@ -21,4 +21,4 @@ We provide the code to solve the Boltzmann equation including the non standard c
 We investigate the impact of NSSI on the free streaming length of sterile neutrinos (impact on structures formation) using the obtained modified distribution functions.
 
 ### Useful external links
-This code was written to carry out the work published in https://arxiv.org/abs/2112.XXXXX, _please cite the paper if you use the code_.
+This code was written to carry out the work published in https://arxiv.org/abs/2112.00758, _please cite the paper if you use the code_.
